@@ -1,7 +1,7 @@
 import { BiMap } from 'react-icons/bi';
 export default function LocationResults() {
   return (
-    <ul className=' font-mulish text-sm text-dark__gray'>
+    <ul className=' font-mulish text-sm text-dark__gray max-w-4xl'>
       <li className=' flex items-center my-5'>
         <BiMap className=' fill-dark__gray' />
         Helsinki, Finland
